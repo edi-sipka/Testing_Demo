@@ -1,0 +1,22 @@
+{
+  "name": "testing_demo",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/edi-sipka/Testing_Demo.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/edi-sipka/Testing_Demo/issues"
+  },
+  "homepage": "https://github.com/edi-sipka/Testing_Demo#readme",
+  "devDependencies": {
+    "jest": "^28.1.3"
+  }
+}
